@@ -5,7 +5,7 @@
 
 I build responsive, user-focused web experiences, with a strong interest in e-commerce, APIs, and modern software development.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-amer~)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-amer-dev)
 [![YouTube](https://img.shields.io/badge/YouTube-Watch_my_content-FF0033?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC0ycSS07ri1rEaOlWALb_UA)
 [![GitHub](https://img.shields.io/badge/GitHub-Explore_projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mahmoud-Said-Mahmoud?tab=repositories)
 
@@ -41,14 +41,14 @@ I build responsive, user-focused web experiences, with a strong interest in e-co
 
 ### 🚀 Selected projects
 
-| Project | What it showcases |
-| --- | --- |
-| [Eldokan 1.2](https://github.com/Mahmoud-Said-Mahmoud/Eldokan1.2) | Next.js e-commerce storefront, API integration, catalog and customer shopping flows. |
-| [Eldokan](https://github.com/Mahmoud-Said-Mahmoud/Eldokan) | Storefront UI, product exploration, search, and reusable React components. |
-| [Arab Olives](https://github.com/Mahmoud-Said-Mahmoud/Arab-Olives) | Arabic RTL product and brand website. |
-| [Face Detector](https://github.com/Mahmoud-Said-Mahmoud/Face-Detectore) | Browser-based face detection and recognition experiment using face-api.js. |
-| [Sign Language](https://github.com/Mahmoud-Said-Mahmoud/Sign-Language) | Arduino-based sensor and wireless communication prototype. |
-| [Weather API App](https://github.com/Mahmoud-Said-Mahmoud/weather-app-api) | Weather search and forecast interface. |
+| Project | What it showcases | Live |
+| --- | --- | --- |
+| [Eldokan 1.2](https://github.com/Mahmoud-Said-Mahmoud/Eldokan1.2) | Next.js e-commerce storefront, API integration, catalog and customer shopping flows. | |
+| [Eldokan](https://github.com/Mahmoud-Said-Mahmoud/Eldokan) | Storefront UI, product exploration, search, and reusable React components. | |
+| [Arab Olives](https://github.com/Mahmoud-Said-Mahmoud/Arab-olives-company) | Arabic RTL product and brand website built with React and Vite. | |
+| [Weather API App](https://github.com/Mahmoud-Said-Mahmoud/weather-app-api) | Geolocation, Arabic/English city search and a 5-day forecast. | [Open](https://weather-app-appi.netlify.app/) |
+| [Quiz App](https://github.com/Mahmoud-Said-Mahmoud/Quiz-App) | Timed quiz with progress bar, navigation and saved results. | [Open](https://quiz-app-quet.netlify.app/) |
+| [Face Detector](https://github.com/Mahmoud-Said-Mahmoud/Face-Detectore) | Browser-based face detection and recognition using face-api.js. | |
 
 ### 📈 GitHub activity
 
@@ -63,6 +63,6 @@ I build responsive, user-focused web experiences, with a strong interest in e-co
 <div align="center">
 
 **Let's connect and build something useful.**  
-[LinkedIn](https://www.linkedin.com/in/mahmoud-amer~) · [YouTube](https://www.youtube.com/channel/UC0ycSS07ri1rEaOlWALb_UA) · [Repositories](https://github.com/Mahmoud-Said-Mahmoud?tab=repositories)
+[LinkedIn](https://www.linkedin.com/in/mahmoud-amer-dev) · [YouTube](https://www.youtube.com/channel/UC0ycSS07ri1rEaOlWALb_UA) · [Repositories](https://github.com/Mahmoud-Said-Mahmoud?tab=repositories)
 
 </div>
