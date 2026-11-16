@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Mahmoud Amer 👋</h1>
 <p align="center">
-  <b>Frontend Developer</b> · React.js · Next.js · Tailwind CSS<br/>
+  <b>Frontend Developer</b> · React.js · Tailwind CSS<br/>
   Building e-commerce UIs at <b>I-Technology</b> · Co-founder of <b>undefine</b> · Cairo, Egypt
 </p>
 
@@ -23,7 +23,7 @@
 ### Tech stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,html,css,vite,redux,nodejs,express,git,github,vercel,figma&perline=15" alt="Tech stack"/>
+  <img src="https://skillicons.dev/icons?i=react,js,ts,tailwind,html,css,vite,redux,nodejs,express,git,github,vercel,figma&perline=15" alt="Tech stack"/>
 </p>
 
 React Hook Form · Zod · Redux Toolkit · shadcn/ui · Framer Motion · GSAP · REST APIs · WooCommerce API
@@ -51,6 +51,6 @@ React Hook Form · Zod · Redux Toolkit · shadcn/ui · Framer Motion · GSAP ·
 ### What I'm working on now
 
 - Growing **Radar** based on user feedback
-- Writing about React, Next.js and Tailwind on [LinkedIn](https://www.linkedin.com/in/mahmoud-amer~) and making videos on [YouTube](https://www.youtube.com/channel/UC0ycSS07ri1rEaOlWALb_UA)
+- Writing about React and Tailwind on [LinkedIn](https://www.linkedin.com/in/mahmoud-amer~) and making videos on [YouTube](https://www.youtube.com/channel/UC0ycSS07ri1rEaOlWALb_UA)
 
 <p align="center"><i>"وما توفيقي إلا بالله"</i></p>
